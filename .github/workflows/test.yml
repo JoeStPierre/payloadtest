@@ -18,6 +18,7 @@ on:
 
 env:
   PAYLOAD_SECRET: d5c28fb25f84aeb5fc159bcd
+  DATABASE_URI: mongodb://127.0.0.1/payloadtest
 
 jobs:
   # Build job
